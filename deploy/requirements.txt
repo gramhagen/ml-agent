@@ -4,7 +4,7 @@ Flask==0.10.1
 Flask-RESTful==0.3.2
 Flask-SQLAlchemy==2.0
 MySQL-python==1.2.5
-requests==2.6.0
+requests>=2.20.0
 pytest==2.7.0
 pytest-cov==1.8.1
 pytest-flask==0.7.5
